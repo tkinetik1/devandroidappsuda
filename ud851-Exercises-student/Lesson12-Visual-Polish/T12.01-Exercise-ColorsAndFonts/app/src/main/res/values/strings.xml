@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FoodShare Visuals</string>
+
+    <!-- Activity names -->
+    <string name="color_font_name">FoodShare Colors and Fonts</string>
+    <string name="style_name">FoodShare Styles and Themes</string>
+    <string name="responsive_layout_name">FoodShare Responsive Layouts</string>
+    <string name="touch_selectors_name">FoodShare Selectors</string>
+
+    <!-- Strings for use in the colors and fonts activity -->
+    <string name="light_56">FoodShare Recipients</string>
+    <string name="thin_italic_45">FoodShare Donors</string>
+    <string name="condensed_34">FoodShare Volunteers</string>
+    <string name="reg_24">Taking unused food from establishments to non-profits.</string>
+    <string name="medium_20">Find us on FB and Instagram: @foodshareco</string>
+    <string name="smallcaps_16sp">visit our site: http://www.foodshare.co</string>
+
+    <!-- Strings used in the style activity -->
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="drafts">Drafts</string>
+    <string name="sent">Sent</string>
+    <string name="trash">Trash</string>
+
+    <!-- Strings used in the responsive layout activity -->
+    <string name="image_placeholder">Image placeholder.</string>
+    <string name="sample_title">Material Design</string>
+    <string name="sample_date">November, 2016</string>
+    <string name="sample_body_text">Responsive design is the act of creating designs that respond
+        to a variety of screen sizes, shapes, and orientations.</string>
+
+    <!-- Strings used in the touch selectors activity -->
+    <string name="person_icon">Icon of a person.</string>
+    <string name="first">First_name</string>
+    <string name="last">Last_name</string>
+
+</resources>

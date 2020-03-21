@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FoodShare Visual Polish</string>
+
+    <!-- Activity names -->
+    <string name="color_font_name">FS Colors and Fonts</string>
+    <string name="style_name">FS Styles and Themes</string>
+    <string name="responsive_layout_name">FS Responsive Layouts</string>
+    <string name="touch_selectors_name">FS Touch Selectors</string>
+
+    <!-- Strings for use in the colors and fonts activity -->
+    <string name="light_56">FoodShare</string>
+    <string name="thin_italic_45">Foodshare</string>
+    <string name="condensed_34">foodshare</string>
+    <string name="reg_24">FoodShare</string>
+    <string name="medium_20">Foodshare</string>
+    <string name="smallcaps_16">foodshare</string>
+
+    <!-- Strings used in the style activity -->
+    <string name="inbox">My Contributions</string>
+    <string name="starred">My Past Shares</string>
+    <string name="drafts">My Account</string>
+    <string name="sent">Current Rewards</string>
+    <string name="trash">Logout</string>
+
+    <!-- Strings used in the responsive layout activity -->
+    <string name="image_placeholder">Image placeholder.</string>
+    <string name="sample_title">Material Design</string>
+    <string name="sample_date">November, 2016</string>
+    <string name="sample_body_text">Responsive design is the act of creating designs that respond
+        to a variety of screen sizes, shapes, and orientations.</string>
+
+    <!-- Strings used in the touch selectors activity -->
+    <string name="person_icon">Icon of a person.</string>
+    <string name="first">First_name</string>
+    <string name="last">Last_name</string>
+
+</resources>

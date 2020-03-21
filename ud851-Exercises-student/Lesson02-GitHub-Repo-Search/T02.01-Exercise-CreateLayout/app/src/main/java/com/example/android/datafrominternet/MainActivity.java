@@ -1,0 +1,47 @@
+/*
+ * Copyright (C) 2016 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package com.example.android.datafrominternet;
+
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.widget.EditText;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity {
+
+    // TODO (26) tf Create an EditText variable called mSearchBoxEditText
+    EditText mSearchBoxEditText;
+
+
+    // TODO (27) tf Create a TextView variable called mUrlDisplayTextView
+    TextView mUrlDisplayTextView;
+    TextView mSearchResultsTextView;
+    // TODO (28) tf Create a TextView variable called mSearchResultsTextView
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        mSearchBoxEditText = (EditText) findViewById(R.id.et_search_box);
+        mUrlDisplayTextView = (TextView) findViewById(R.id.tv_url_display);
+        mSearchResultsTextView = (TextView) findViewById(R.id.tv_github_search_results_json);
+
+        // TODO (29) tf Use findViewById to get a reference to mSearchBoxEditText
+        // TODO (30) tf Use findViewById to get a reference to mUrlDisplayTextView
+        // TODO (31) tf Use findViewById to get a reference to mSearchResultsTextView
+    }
+}
